@@ -1,0 +1,315 @@
+.banner{
+    background: #ffffff;
+    color:rgb(255, 255, 255);   
+}
+.caixa{
+    padding: 60px 0px; /*60px acima e abaixo 0px direita e esquerda*/
+    border-bottom: 2px solid #e5e5e5;
+
+}
+.nav-item{
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+
+
+.fazer-login{
+  font-size: 20px;
+}
+
+.carousel-inner {
+    height: 500px;
+  
+}
+
+.P{
+    font-size: 35px;
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.textoA{
+    margin-left: 140px;
+    font-weight: bold;
+}
+
+.textoB{
+    margin-left: 180px;
+    font-weight: bold;
+}
+
+.textoC{
+    margin-left: 170px;
+    font-weight: bold;
+}
+
+.textoD{
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+.texto1{
+    margin-left: 175px;
+    margin-bottom: 40px;
+}
+
+.texto2{
+    margin-left: 187px;
+    margin-bottom: 40px;
+}
+
+.texto3{
+    margin-left: 143px;
+    margin-bottom: 40px;
+}
+
+.texto4{
+    margin-left: 185px;
+    margin-bottom: 40px;
+}
+
+.texto-ci{
+   text-align: center;
+}
+
+.P-img{
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+.p-vale-img{
+    font-size: 40px;
+    padding: 20px;
+    color: white;
+}
+
+#tres-img{
+    margin-left: 50px;
+}
+
+.img-tres{
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+.texto-tres{
+    font-size: 17px;
+    padding: 30px;
+    margin-right: 70px;
+}
+
+#borda{
+    
+    border-style: 15px;
+    width: 1700px;
+}
+
+.borda2{
+    padding-left: 50px;
+}
+
+.bot{
+    margin-left: 100px;
+}
+
+.img-dois{
+    width: 900px;
+    height: 500px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.cor{
+    background-color: #52abf8;
+}
+
+.local{
+    border-radius: 10px;
+    height: 55px;
+    width: 150px;
+    font-size: 20px;
+}
+
+.img-um{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 45px;
+}
+
+.apa_img{
+    height: 220px;
+    width: 340px;
+    border-radius: 20px;
+    margin-left: 55px;
+}
+
+.img-grande{
+    width: 100%;
+    height: 800px;
+    
+}
+
+.color{
+    background-color: #52abf8;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.footer {
+    background-color: rgb(2, 120, 255); /* Cor de fundo azul */
+    color: rgb(255, 255, 255); /* Cor do texto branco para contraste */
+    text-align: center; /* Alinha o texto no centro */
+    padding: 10px; /* Espaçamento interno do rodapé */
+    position: fixed; /* Fixa o rodapé na parte inferior da página */
+    bottom: 0;
+    width: 100%; /* O rodapé ocupa toda a largura da página */
+}
+
+.footer_cima {
+    background-color: #0088ff;
+    color: white;
+    padding: 20px;
+}
+
+hr {
+    box-shadow: 0 0 0 5px black;
+}
+
+.titulo {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.container-fluid {
+    margin-top: 50px;
+}
+
+.basi {
+    border: 1px solid;
+    border-radius: 20px;
+    
+}
+
+ 
+ 
+
+.horarios {
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.texto_base {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.horas {
+    font-size: 15px;
+    text-align: left;
+    margin-top: 25px;
+}
+
+.Sobre {
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.historia {
+    font-size: 17px;
+    text-align: justify;
+    padding-right: 50px;
+}
+
+.Descricao {
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.rodape{
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10.5%;
+}
+
+.texto-apa{
+    margin-left: 150px;
+    
+}
+
+.avaliarbutton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 20%;
+}
+
+.voltarbutton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 20%;
+}
+
+.logo-sobre{
+    height: 360px;
+    width: 400px;
+    border: 1px solid black;
+    margin-right: 10px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.logo-sobre2{
+    height: 300px;
+    width: 750px;
+    border: 1px solid black;
+    margin-right: 10px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+#img_logo{
+   margin-left: 30px;
+
+}
+.caixa{
+  width: 20px;
+}
+
+.form-control{
+    width: 50%;
+    margin-left: 25%;
+}
